@@ -123,8 +123,7 @@ DIVIDE(
 
 ```
 
-These measures shift the focus from churn percentage to **expected revenue exposure**.
-
+These measures shift the analysis from daily reporting to healthcare capacity and severity tracking.
 ---
 
 ## Analysis & Insights
