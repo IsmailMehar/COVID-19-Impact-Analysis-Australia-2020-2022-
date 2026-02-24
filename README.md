@@ -134,9 +134,7 @@ Rather than reacting solely to transmission levels, decision-makers can monitor 
 │
 ├── Data/
 │   └── Australia_Covid-19.xlsx
-│
-├── Writeups/
-│   └── Project_Case_Study.pdf
+│   └── States.xlsx
 │
 └── README.md
 ```
