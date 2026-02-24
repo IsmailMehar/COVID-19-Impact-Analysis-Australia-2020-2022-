@@ -145,6 +145,12 @@ Rather than reacting solely to transmission levels, decision-makers can monitor 
 
 ## Dashboard Preview  
 
+<img width="2523" height="1422" alt="image" src="https://github.com/user-attachments/assets/5348c57e-9c30-41e8-b4dc-b374b62dbcaa" />
+<img width="2520" height="1419" alt="image" src="https://github.com/user-attachments/assets/5f4c6840-4e06-428d-8a5e-fe6938ffdfae" />
+<img width="2517" height="1413" alt="image" src="https://github.com/user-attachments/assets/fd58206b-2f34-4bb3-a2ee-99d8f2746242" />
+<img width="2520" height="1410" alt="image" src="https://github.com/user-attachments/assets/ead72c19-a7e6-4cde-93e4-e509dade7a91" />
+<img width="2520" height="1413" alt="image" src="https://github.com/user-attachments/assets/cbc1f48b-e3fe-419c-940e-e283de16a707" />
+<img width="2523" height="1416" alt="image" src="https://github.com/user-attachments/assets/1cea44ea-876b-465f-9cbe-8981c6303eb4" />
 
 ---
 
