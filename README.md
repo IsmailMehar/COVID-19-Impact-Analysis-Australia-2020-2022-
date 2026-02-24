@@ -123,7 +123,6 @@ DIVIDE(
 
 ```
 
-These measures shift the analysis from daily reporting to healthcare capacity and severity tracking.
 ---
 
 ## Analysis & Insights
