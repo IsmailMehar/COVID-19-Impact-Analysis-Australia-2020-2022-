@@ -82,7 +82,44 @@ This structure supports time-series analysis and cross-visual drill-down.
 ## Key Measures (DAX)
 
 ```DAX
+-- Percentage of Hospitalised Cases
+% of Hospitalised =
+SUM('COVID-19 Data'[Hospitalised])/SUM('COVID-19 Data'[Cases])
 
+-- Death Rate per 1000 People
+Death rate per 1000 =
+DIVIDE(
+    SUM('COVID-19 Data'[Deaths]),
+    SUM('COVID-19 Data'[Cases])
+)*1000
+
+-- Hospitalisation Rate per 1000 People
+Hospitalisation rate per 1000 =
+DIVIDE(
+    SUM('COVID-19 Data'[Hospitalised]),
+      SUM('COVID-19 Data'[Cases])
+)*1000
+
+-- ICU Rate per 1000 People
+ICU rate per 1000 =
+DIVIDE(
+    SUM('COVID-19 Data'[ICU]),
+    SUM('COVID-19 Data'[Hospitalised])
+)*1000
+
+-- Ventilation Rate per 1000 People
+Ventilation rate per 1000 =
+DIVIDE(
+    SUM('COVID-19 Data'[Ventilation]),
+    SUM('COVID-19 Data'[Hospitalised])
+)*1000
+
+-- Mortality Rate
+Mortality Rate =
+DIVIDE(
+    SUM('COVID-19 Data'[Deaths]),
+    SUM('COVID-19 Data'[Cases])
+)
 
 ```
 
