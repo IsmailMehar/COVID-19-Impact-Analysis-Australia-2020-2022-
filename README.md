@@ -1,6 +1,7 @@
 # COVID-19 Healthcare Impact & Vaccination Analysis – Australia (2020–2022)
 
 **Domain:** Healthcare Analytics / Public Sector Intelligence
+
 **Tools:** Power BI, DAX, Power Query
 **Duration:** 2–3 Weeks
 **Dataset:** Public Australian COVID-19 reporting data (2020–2022), educational use
